@@ -23,8 +23,14 @@
 | Assessment | Rule |
 | --- | --- |
 | Strong fit | Meets all four criteria |
-| Possible fit | Meets geography and size, but is in an adjacent segment or has no listed integration marketplace |
+| Possible fit | Meets geography and size, but either is in an adjacent segment or has no listed integration marketplace |
 | Not a fit | Outside the target geography or size range, or in an unrelated segment |
+
+## Segment definitions
+
+- **Target segment:** SMB HR and payroll software.
+- **Adjacent segments:** workforce scheduling, expense management and benefits administration. These serve the same buyers but are not HR or payroll products.
+- **Unrelated segments:** anything else in this sample, such as recruiting software and enterprise HCM.
 
 ## Process
 
